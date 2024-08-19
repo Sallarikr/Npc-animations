@@ -1,0 +1,1 @@
+The city in this game consists of premade trees, buildings and roads. Buildings have not been gamified. As the player's character approaches the three dancing npc's, they switch their animations. Characters and animations are from Mixamo.
